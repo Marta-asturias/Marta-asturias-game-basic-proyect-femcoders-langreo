@@ -1,4 +1,4 @@
-document.querySelector(".cuadrado").addEventListener("click", myFunction1);
+document.querySelector(".rectangulo").addEventListener("click", myFunction1);
 document.querySelector(".circulo").addEventListener("click", myFunction2);
 document.querySelector(".triangulo").addEventListener("click", myFunction3);
 document.querySelector(".reset").addEventListener("click", reset);
