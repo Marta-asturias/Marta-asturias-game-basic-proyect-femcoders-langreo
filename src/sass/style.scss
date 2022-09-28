@@ -10,7 +10,7 @@ h1{
     transform: translate(-50%, -50%);
 
 }
-main{
+/* main{
     display: flex;
     position: absolute;
     top: 50%;
@@ -87,7 +87,7 @@ main .circulo:hover{
     border-radius: 50%;
     background: rgb(3, 3, 3);
 
-}
+} */
 .button {
     position: absolute;
     width:100px;
@@ -102,7 +102,7 @@ main .circulo:hover{
     width: 90px;
     height: 30px;
 }
-
+/* 
 .rectangulo{
     display:flex;
     position: relative;
@@ -114,4 +114,8 @@ main .circulo:hover{
     height: 50px; 
     background: red;
     
-}
+} */
+
+.elemento1{
+  visibility:hidden;   
+  }
